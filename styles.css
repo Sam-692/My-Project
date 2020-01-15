@@ -1,0 +1,26 @@
+h1{
+    font-size:xx-large;
+color:blue;
+font-style:italic ;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    color:rgb(12, 12, 12);
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+img{
+    height:200px;
+    width: 200px;
+}
+body{
+    text-align:center;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    color: lime;
+}
+*{
+    background-color: rgb(83, 61, 52);
+}

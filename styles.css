@@ -20,16 +20,12 @@ body{
 .topnav a:hover {
     color:black;
     height:5%;
-    /* width: 30%; */
     background-color: rgb(23, 8, 235);
 }
-/* p{
-    padding: 10px;
-    /* text-align: center; */
 } */
-h2,ul{
+h2, ul {
     text-align: center;
-    font-weight:1000;
+    font-weight: 1000;
 }
 .home{
     text-align: center;
@@ -39,56 +35,14 @@ h2,ul{
 .topnav{
     overflow: hidden;
 }
-/* *{
-    overflow: hidden;
-} */
-/* .images{
-    float: left;
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0 4px;
-    
-} */
 h4{
 text-align: center;
-}
-/* 
-img{
-    width: 100%;
-    height: 1%;
-    margin-bottom: 10px;
-}
-
-.img{
-    widows: 50%;
-    height: 40%; */
-}
-.mens{
-    float: left;
-   flex-wrap: row-reverse;
-   justify-content: space-between;
-   text-align: center;
-   display: flex;
-   flex-wrap: nowrap;
-}
-}
-.childrens{
-    float: left;
-   flex-wrap: row-reverse;
-   justify-content: space-between;
-   text-align: center;
-   display: flex;
-   flex-wrap: nowrap;
-}
-.ladies{
-   float: left;
-   flex-wrap: row-reverse;
-   justify-content: space-between;
-   text-align: center;
-   display: flex;
-   flex-wrap: nowrap;
    
 }
 header{
     background-color: purple;
+}
+p {
+        text-align: center;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }

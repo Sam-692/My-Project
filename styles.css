@@ -21,7 +21,7 @@ body{
     color:black;
     height:5%;
     /* width: 30%; */
-    background-color: indigo;
+    background-color: rgb(23, 8, 235);
 }
 /* p{
     padding: 10px;
@@ -88,4 +88,7 @@ img{
    display: flex;
    flex-wrap: nowrap;
    
+}
+header{
+    background-color: purple;
 }

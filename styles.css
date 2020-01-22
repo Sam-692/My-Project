@@ -5,7 +5,6 @@ body{
     padding: 44px 16px;
     overflow-x: visible;
     overflow-y: scroll;
-    /* overflow: hidden; */
 }
 .topnav a {
     float: left;
@@ -83,6 +82,3 @@ footer{
 .order{
     text-align: center;
 }
-/* form{
-    text-align: center;
-} */

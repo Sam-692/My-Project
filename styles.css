@@ -7,7 +7,7 @@ body{
     overflow-y: scroll;
     /* overflow: hidden; */
 }
-.topnav a {
+/* .topnav a {
     float: left;
     color: #2913EB;
     text-align: center;
@@ -16,11 +16,12 @@ body{
     font-size:50px;
     margin-left: 9%;
     display: flex;
-}
+    overflow: hidden;
+} */
 .topnav a:hover {
     color:black;
-    height:5%;
-    background-color: rgb(12, 15, 233);
+    height:115%;
+    background-color:cornsilk;
 }
 h2,ul{
     text-align: center;
@@ -31,10 +32,7 @@ h2,ul{
     font-weight: 1000;
     font-style: italic;
     font-size: 40px;
-}
-.topnav{
-    overflow: hidden;
-}
+}   
 h4{
 text-align: center;
 }
@@ -67,7 +65,13 @@ text-align: center;
    
 }
 header{
-    background-color: indigo;
+    color:cornsilk; 
+    padding: 14px;
+    text-decoration: none;
+    position: fixed;
+    overflow: hidden;
+    background-color: palegreen;
+    text-align: right;
 
 }
 p{
@@ -83,6 +87,3 @@ footer{
 .order{
     text-align: center;
 }
-/* form{
-    text-align: center;
-} */
